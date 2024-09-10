@@ -1,1 +1,22 @@
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1003896749?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="2024-05-07_08-32-18"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+# Smart City Traffic Analysis Project
+
+This project focuses on analyzing traffic patterns and improving traffic management in a smart city environment. The project involves data analysis, predictive modeling, and the development of adaptive traffic light algorithms using machine learning techniques.
+
+## Table of Contents
+- [Overview](#overview)
+- [Project Structure](#project-structure)
+- [Features](#features)
+- [Methodology](#methodology)
+- [Results](#results)
+- [Challenges](#challenges)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributors](#contributors)
+- [License](#license)
+
+## Overview
+
+The **Smart City Traffic Analysis Project** aims to forecast traffic patterns and optimize traffic signal timings at various junctions in a smart city using machine learning techniques. The project also simulates emergency vehicle routing and integrates computer vision to count vehicles for a more dynamic and adaptive traffic management system.
+
+## Project Structure
+
